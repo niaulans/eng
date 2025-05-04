@@ -1,13 +1,1 @@
-# English Grammar <!-- omit in toc -->
-
-## Table of contents <!-- omit in toc -->
-- [Present and Past - Simple and Progressive](#present-and-past---simple-and-progressive)
-  - [Test aja](#test-aja)
-    - [Ini adia](#ini-adia)
-
-
-## Present and Past - Simple and Progressive
-
-### Test aja
-
-#### Ini adia
+[English Grammar notes](https://docs.google.com/document/d/1W4CthUObbXG5bZrH1Y77qehp1NpcUozoBTI3d68e-RQ/edit?usp=sharing)
